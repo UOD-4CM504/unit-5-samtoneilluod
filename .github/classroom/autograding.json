@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Lesson 1 - Functions",
+      "setup": "sudo -H pip3 install pytest timeout_decorator pytest-mock",
+      "run": "pytest Lessons/l1_functions_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Exercise 1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest Exercises/exercise_1_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 3
+    }
+  ]
+}
