@@ -1,6 +1,6 @@
 def calc_retail_price(wholesale, markup):
     # remove the following line and write your function here
-    print("hello")
+    print("hello1")
     
 
 def main():
