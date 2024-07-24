@@ -11,7 +11,8 @@ def main():
 # Please ask if you are curious, but it is enough to understand that this calls the main() function and runs whatever code you have in there.
 if __name__ == "__main__":
     main() # calls the main function
-    
+
+
     # uncomment the following lines to test calc_retail_price when you run the program.You will need to comment out main()
     # print(calc_retail_price(3.00, 100)) # should print 6.0
     # print(calc_retail_price(5.00, 50)) # should print 7.5
